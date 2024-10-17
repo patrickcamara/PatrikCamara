@@ -1,5 +1,7 @@
 ## Hello there! Sou Patrik Câmara, Analista de Dados & Defesa!
 
+Business Intelligence | Business Developments | Security e Defense | Sales and Buyer | Python | SQL | Power Bi | Excel
+
 <div align="center">
   <a href="https://github.com/patrickcamara">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickcamara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
