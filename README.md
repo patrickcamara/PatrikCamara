@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Patrik-Python" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Patrik-FT" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+    <img align="center" alt="Patrik-BI" height="32" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg](https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp)" />
   <img align="center" alt="Patrik-Js" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Patrik-HTML" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Patrik-CSS" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
