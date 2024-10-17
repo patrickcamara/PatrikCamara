@@ -1,4 +1,4 @@
-## Hello there! Sou Patrik Câmara, Analista de Dados e & Defesa!
+## Hello there! Sou Patrik Câmara, Analista de Dados & Defesa!
 
 <div align="center">
   <a href="https://github.com/patrickcamara">
