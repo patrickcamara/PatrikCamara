@@ -11,7 +11,7 @@
   <img align="center" alt="Patrik-HTML" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Patrik-CSS" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   
-  <img align="right" alt="Rafa-pic" height="300" style="border-radius:50px;" src="https://sto-blog.s3.amazonaws.com/images/2017/12/08/giphy-55.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://sto-blog.s3.amazonaws.com/images/2017/12/08/giphy-55.gif">
   
 </div>
   
@@ -19,10 +19,9 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/patrikcamara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="EM MANUTENÇÃO" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"     target="_blank"></a>
+   <a href = "mailton:patrikcamara@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="EM MANUTENÇÃO="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="patrikcamara" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailton:patrikcamara@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+ <a href="patrikcamara" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank](https://aleen42.github.io/badges/src/reddit.svg)"></a> 
   
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
